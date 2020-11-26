@@ -84,7 +84,7 @@ public class MainWindow extends JFrame {
 		add(panel);
 		pack();
 		setTitle("Shape Calculator");
-		setSize(600, 600);
+		//setSize(600, 600);
 		setLocationRelativeTo(null);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 	}
